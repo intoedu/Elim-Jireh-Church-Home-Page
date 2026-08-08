@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://intoedu.github.io/Elim-ire-Church-Home-Page/sitemap.xml
+
+# 참고 — robots.txt 는 도메인 최상위(intoedu.github.io/robots.txt)에 있어야
+# 검색엔진이 읽습니다. GitHub Pages 프로젝트 주소로 운영하는 동안 이 파일은
+# 사실상 읽히지 않으므로, sitemap 은 네이버 웹마스터도구·구글 서치콘솔에
+# 위 주소를 직접 등록해 주세요. 나중에 자체 도메인을 연결하면 정상 작동합니다.
